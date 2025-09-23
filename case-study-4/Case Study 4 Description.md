@@ -1,5 +1,5 @@
-Date Assigned: September 19, 2025
-Date Submitted: September 23, 2025
+Date Assigned: September 18, 2025
+Date Submitted: September 22, 2025
 
 The first part of this case study was to make a comparison between the Expected Points Added (EPA) and Win Probability Added (WPA) for the offense during each play of Super Bowl LI between the Atlanta Falcons and the New England Patriots. Z-scores were calculated for each value of EPA and WPA in order to standardize these values among the full sample of plays run by the offenses. Scatter plots were created in order to find the relationship between EPA and WPA for these plays. Finally, the differences in z-scores were calculated for each play in order to find plays where EPA and WPA differ.
 
