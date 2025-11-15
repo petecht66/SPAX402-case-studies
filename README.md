@@ -1,6 +1,6 @@
 # SPAX402-case-studies
 Date Started: August 28, 2025
-Last Updated: November 11, 2025
+Last Updated: November 14, 2025
 
 This repository contains the full collection of case studies completed for SPAX402: Predictive Analysis with Athletics Data, a Sports Analytics course taught at the University of Delaware. The professor for this course, Professor Jack Davis, is currently the Associate Athletic Director of Business Intelligence, Analytics, and Strategy at the University of Delaware Athletic Department. A key objective of this course is to prepare students for a career in professional or collegiate athletics.
 
