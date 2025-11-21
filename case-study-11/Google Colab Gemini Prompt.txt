@@ -1,0 +1,11 @@
+pff_FIRST_DOWN_GAINED is the target variable.
+
+1 indicates a successful first down. 0 indicates unsuccessful. My goal is to understand the factors that influence whether a play results in a first down or not.
+
+Create a decision tree classifier with a maximum depth of two to predict the target variable. Conduct a train/test split of 80/20.
+
+Many of the features are categorical and will need to be transformed, so one-hot encode those fields. 
+
+Display a labeled confusion matrix of my test data to evaluate performance. Optimize for accuracy. Show a confusion matrix with totals and another with percentages.
+
+Visualize the tree when finished.
