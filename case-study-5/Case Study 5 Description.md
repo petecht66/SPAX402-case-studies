@@ -7,6 +7,8 @@ The second part of this case study looked at multiple independent variables in g
 
 The third and final part of this case study revisited the relationship between standardized entropy of NFL playcalling and first down rate on 3rd/4th and 2. To start, a simple linear regression was run between these two variables. Then team offensive performance metrics were introduced into the model for a multiple linear regression. This effort identified any potential omitted variable bias in the original model.
 
+The regression models were first created in Microsoft Excel using the Data Analysis ToolPak. These models can be found in the Microsoft Excel Workbook files (.xlsx files) within this folder. Afterward, the same regression models were consructed using R programming to show familiarity with the language. The three .r files can also be found within this folder.
+
 Below are the questions asked about each of the three sports. My answers to these questions can be found on the same .pdf, which is titled 'SPAX402 Case Study 5.pdf' in this folder.
 
 Simple Linear Regression for MLB Wins Questions

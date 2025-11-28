@@ -7,3 +7,10 @@ head(NFLConversionData)
 # for each team regarding run/pass variability on 3rd or 4th and 2
 firstDownRateSLR <- lm(First.Down.Rate ~ Standardized.Entropy, data = NFLConversionData)
 summary(firstDownRateSLR)
+
+# creating multiple linear regression (MLR) between first down success rate and standardized entropy while
+# controlling for team pass grade, team pass block grade, team rush grade, team rush block grade, and 
+# team receiving grade
+firstDownRateMLR <- lm(First.Down.Rate ~ Standardized.Entropy + PASS.GRD + PBLK.GRD + 
+    RUSH.GRD + RBLK.GRD + REC.GRD, data = NFLConversionData)
+summary(firstDownRateMLR)
